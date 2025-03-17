@@ -1,0 +1,5 @@
+print("hello world", end=" ")  
+print("good bye", end=" ")
+print("we are learning python", end=" ")
+print("hello", end=" joker ")
+print("my name is soni")
