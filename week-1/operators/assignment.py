@@ -10,7 +10,7 @@ to assign your value
 
 """
 
-a = 5
+# a = 5
 # output = 8
 # a = a + 3
 # a += 3
@@ -28,5 +28,5 @@ a = 5
 # a **= 3
 # output = 1
 # a = a // 3
-a //= 3
-print(a)
+# a //= 3
+# print(a)

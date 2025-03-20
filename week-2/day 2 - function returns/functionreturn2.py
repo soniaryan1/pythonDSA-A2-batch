@@ -22,3 +22,4 @@ def checkoddeven(num: int):
 
 t = add(2, 6, 4)
 checkoddeven(t)
+# checkoddeven(add(7,2,3))

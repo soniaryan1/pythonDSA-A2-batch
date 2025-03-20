@@ -14,10 +14,16 @@ num = int(input("enter your number = "))
 #         print("positive")
 # else:
 #     print("negative")
-if num > 0:
-    print("positive")
-else:
-    if num == 0:
-        print("equal to zero")
-    else:
-        print("negative")
+
+
+# if num > 0:
+#     print("positive")
+# else:
+#     if num == 0:
+#         print("equal to zero")
+#     else:
+#         print("negative")
+
+
+
+

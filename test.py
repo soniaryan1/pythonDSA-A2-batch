@@ -26,14 +26,22 @@
 # print(divv)
 
 
-class Billing:
-    def calculateFinalBill(n):
-        discount = (n * 5) / 100
-        gst = (n * 18) / 100
-        final_amount = n - discount + gst
-        return final_amount
+# class Billing:
+#     def calculateFinalBill(n):
+#         discount = (n * 5) / 100
+#         gst = (n * 18) / 100
+#         final_amount = n - discount + gst
+#         return final_amount
 
 
-amount = float(input("Enter price"))
-bill = Billing.calculateFinalBill(amount)
-print(f"your final bill is {bill}")
+# amount = float(input("Enter price"))
+# bill = Billing.calculateFinalBill(amount)
+# print(f"your final bill is {bill}")
+
+
+class intrest:
+    def calculateamount():
+        pass
+
+
+amount: float

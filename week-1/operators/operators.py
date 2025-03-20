@@ -40,5 +40,8 @@ operators
 a = 14
 b = 4
 # print(a/b)
-# print(a//b)
-print(a % b)
+# output a=14 ,b = 4 output = 3
+# print(a//b
+# output a=14 , b= 4 output = 2
+# print(a % b)
+

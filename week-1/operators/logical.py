@@ -53,6 +53,7 @@ NOT
 # chemistry = 52
 # print(physics > 33 or not chemistry > 33)
 # output = false
-physics = 31
-chemistry = 52
-print(not (physics > 33 or chemistry > 33))
+# physics = 31
+# chemistry = 52
+# print(not (physics > 33 or chemistry > 33))
+# output = false
